@@ -24,7 +24,7 @@ dam.pic@free.fr
 > along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ## Présentation
-Ce code accompagne l'article *Peinture normale : Approche picturale du rendu de surfaces* par Damien Picard, publié dans la *Revue ATI* en avril 2017.
+Ce code accompagne l'article *Peinture normale : Approche picturale du rendu de surfaces* par Damien Picard, publié dans la *[Revue ATI](http://inrev.univ-paris8.fr/revue/Revue_ATI_INREV_num5.pdf)* en avril 2017.
 
 Il contient une implémentation d'un algorithme permettant de calculer une carte de normales à partir d'une image arbitraire.
 
